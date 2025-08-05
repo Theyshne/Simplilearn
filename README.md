@@ -1,3 +1,3 @@
 # Simplilearn
 This is my first git repo.<br>
-Author - simplilearn
+Author - simplilearn- learning & studing
